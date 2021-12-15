@@ -1,0 +1,14 @@
+name: EZPing
+version: 1.0.0
+main: EZPing\main
+api: 3.0.0
+description: Plugin that can show your ping by using /ping.
+author: Dready
+commands:
+  ping:
+    description: Show your or another player's ping!
+  ezping:
+    description: Enjoy!
+permissions:
+  ezping.ping.others:
+    default: true;
