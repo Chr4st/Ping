@@ -9,10 +9,10 @@ description: Shows your Ping in ms
 
 0-50ms is excellent
 
-50-100 is good
+50-100ms is good
 
-100-200 is Ok
+100-200ms is Ok
 
-300-500 is poor
+300-500ms is poor
 
-500-5000 is extremely poor
+500-5000ms is extremely poor
