@@ -10,7 +10,7 @@ use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\plugin\PluginBase;
 
-class Main extends PluginBase implements Listener {
+class main extends PluginBase implements Listener {
 
     private $config;
 
