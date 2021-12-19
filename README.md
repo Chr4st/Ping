@@ -5,7 +5,7 @@ Commands:
 
 description: Shows your Ping in ms 
 
-###########
+#
 
 0-50ms is excellent
 
